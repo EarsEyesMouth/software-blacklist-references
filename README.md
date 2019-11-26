@@ -1,5 +1,13 @@
-# 软件黑名单参考
+# Software Backlist References
 
-以下软件由于其历史劣迹斑斑，或其开发团队试图挑战人类和平、世界发展，传播危害世界的谣言或妄图挑战「一个中国」之原则。在谴责之余，列出本黑名单，供诸位参考。
+This list will be divided into "software list" and "organization list", which are used to record the names of software and organizations that use various means to affect world peace and create chaos (and disorder).
+
+The names of software and organizations that rumor China's Tibet and China's Xinjiang, as well as software and organizations that attempt to split China and subvert China will be included.
+
+## Organization List
+
++ [Notepad++ Team](https://github.com/notepad-plus-plus)
+
+## Software List
 
 + [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
