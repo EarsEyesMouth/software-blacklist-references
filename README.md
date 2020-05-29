@@ -1,6 +1,6 @@
 # Software Backlist References
 
-This list will be divided into "personal list", "software list" and "organization list", which are used to record the names of software and organizations that use various means to affect world peace and create chaos (and disorder).
+This list will be divided into "Personnel list", "software list" and "organization list", which are used to record the names of software and organizations that use various means to affect world peace and create chaos (and disorder).
 
 The names of software and organizations that rumor China's Tibet and China's Xinjiang, as well as software and organizations that attempt to split China and subvert China will be included.
 
@@ -10,7 +10,7 @@ This blacklist is used to boycott the organizations and companies listed on the 
 
 **We reiterate: It is forbidden to bring political disputes into the technical field!** Only stupid and weak people will vent their emotions through the technological world.
 
-## Personal List
+## Personnel List
 
 + [dail8859](https://github.com/dail8859)
 
