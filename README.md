@@ -13,6 +13,7 @@ This blacklist is used to boycott the organizations and companies listed on the 
 ## Personnel List
 
 + [dail8859](https://github.com/dail8859)
++ [tonyqus](https://github.com/tonyqus)
 
 ## Organization List
 
